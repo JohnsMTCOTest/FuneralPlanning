@@ -1,10 +1,10 @@
-# Planning Your Funeral: Web Guide
+# Thoughtful Choice
 
 ## Overview
 
-A single-page, static website that provides a comprehensive, accessible guide for first-time funeral planners. The application walks users through ceremony options, disposition methods, memorialization ideas, and includes practical guidance and checklists. Built as a simple HTML/CSS project with no build tools or backend dependencies, optimized for clarity and ease of reading.
+A single-page, static website that provides a comprehensive, accessible guide for end-of-life planning. The application walks users through ceremony options, disposition methods, memorialization ideas, and includes practical guidance and checklists. Built as a simple HTML/CSS project with no build tools or backend dependencies, optimized for clarity and ease of reading.
 
-**Purpose**: Demystify funeral planning for individuals with no prior knowledge by presenting complex options in plain language with clear comparisons and considerations.
+**Purpose**: Help individuals make informed, meaningful decisions about their final arrangements by presenting options in plain, compassionate language.
 
 ## User Preferences
 
